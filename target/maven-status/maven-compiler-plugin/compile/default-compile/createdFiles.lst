@@ -1,0 +1,8 @@
+framework/AbstractComponents/OrdersPage.class
+framework/AbstractComponents/AbstractComponent.class
+framework/pageobjects/ConfirmationPage.class
+framework/pageobjects/CartPage.class
+framework/pageobjects/ProductCatalogue.class
+framework/pageobjects/CheckOutPage.class
+framework/Resources/ExtendReporter.class
+framework/pageobjects/Landingpage.class
